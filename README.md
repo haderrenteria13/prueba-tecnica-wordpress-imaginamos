@@ -25,7 +25,7 @@ Solución a la prueba técnica de Imaginamos para el cargo de **WordPress & WooC
 ## Puesta en marcha (un solo comando)
 
 ```bash
-git clone https://github.com/<usuario>/prueba-tecnica-wordpress-imaginamos.git
+git clone https://github.com/haderrenteria13/prueba-tecnica-wordpress-imaginamos.git
 cd prueba-tecnica-wordpress-imaginamos
 docker compose up -d
 ```
