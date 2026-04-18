@@ -4,4 +4,16 @@
 
 .elementor-30 .elementor-element.elementor-element-1a79c77 textarea.elementor-field {
     min-height: 150px !important;
+}
+
+.elementor-message {
+    margin-top: 15px !important;
+    line-height: 1.4 !important;
+    display: block !important;
+    position: relative !important;
+    clear: both !important;
+}
+
+.elementor-button {
+    margin-bottom: 10px !important;
 }/* End custom CSS */
